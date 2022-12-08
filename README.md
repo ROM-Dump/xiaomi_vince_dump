@@ -1,0 +1,18 @@
+## vince-user 8.1.0 OPM1.171019.019 V11.0.3.0.OEGCNXM release-keys
+- Manufacturer: xiaomi
+- Platform: msm8953
+- Codename: vince
+- Brand: xiaomi
+- Flavor: vince-user
+- Release Version: 8.1.0
+- Id: OPM1.171019.019
+- Incremental: V11.0.3.0.OEGCNXM
+- Tags: release-keys
+- CPU Abilist: arm64-v8a,armeabi-v7a,armeabi
+- A/B Device: false
+- Locale: zh-CN
+- Screen Density: undefined
+- Fingerprint: xiaomi/vince/vince:8.1.0/OPM1.171019.019/V11.0.3.0.OEGCNXM:user/release-keys
+- OTA version: 
+- Branch: vince-user-8.1.0-OPM1.171019.019-V11.0.3.0.OEGCNXM-release-keys
+- Repo: xiaomi_vince_dump
