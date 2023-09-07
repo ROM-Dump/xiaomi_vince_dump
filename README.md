@@ -1,0 +1,20 @@
+## vince-user 7.1.2 N2G47H V10.1.1.0.NEGCNFI release-keys
+- Manufacturer: xiaomi
+- Platform: msm8953
+- Codename: vince
+- Brand: xiaomi
+- Flavor: vince-user
+- Release Version: 7.1.2
+- Kernel Version: 3.18.31
+- Id: N2G47H
+- Incremental: V10.1.1.0.NEGCNFI
+- Tags: release-keys
+- CPU Abilist: arm64-v8a,armeabi-v7a,armeabi
+- A/B Device: false
+- Treble Device: false
+- Locale: zh-CN
+- Screen Density: undefined
+- Fingerprint: xiaomi/vince/vince:7.1.2/N2G47H/V10.1.1.0.NEGCNFI:user/release-keys
+- OTA version: 
+- Branch: vince-user-7.1.2-N2G47H-V10.1.1.0.NEGCNFI-release-keys
+- Repo: xiaomi_vince_dump
